@@ -12,7 +12,7 @@
 
 Aspiring web/app developer passionate about creating web apps to solve simple, daily problems.
 
-🔭 &nbsp;I'm currently working on **a task managing app**  
+🔭 &nbsp;I'm currently working on **my birthday wishlist**  
 🌱 &nbsp;I'm currently learning **HTML, CSS, JavaScript**  
 💬 &nbsp;Ask me about **Amazing colour combinations**  
 😄 &nbsp;Pronouns: **she/her**
